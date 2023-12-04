@@ -11,10 +11,15 @@ int main()
     int user_input, attempts=0;
     char again;
 
-    cout << "Welcome to the Number Guessing Game!" << endl;
-    cout << "I have a number between 1 and 100. Can you guess what it is?" << endl;
+    cout << endl;
+    cout << "    Welcome to the Number Guessing Game!    " << endl;
+    cout << " ------------------------------------------   " << endl;
+    cout << endl;
+    cout << "I have choosen a number between 1 and 100. Can you guess what it is?" << endl;
+    cout << endl;
     
 while (true) {
+        cout << endl;
         cout << "Enter your guess: ";
         cin >> user_input;
 
