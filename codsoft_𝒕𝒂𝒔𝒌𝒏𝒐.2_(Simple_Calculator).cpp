@@ -54,7 +54,7 @@ int main()
         cout << "\t\t\t\t|       SIMPLE  CALCULATOR       |\t\t\t\t" << endl;
         cout << "\t\t\t\t|________________________________|\t\t\t\t" << endl;
         cout<<endl;
-        cout << "   Welcome to Simple Calculator! Press any key to continue..";
+        cout << "   Welcome to Simple Calculator! Press enter to continue...";
         cin.get();
         system("cls");
         cout << endl;
